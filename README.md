@@ -23,8 +23,7 @@ Go to `/server` directory and runs the server in the development mode.
 - Run server:
 ### `npm start`
 
-
-Open [http://localhost:3001](http://localhost:3001).
+It will run on port 3001
 
 ### `npm run seed`
 
