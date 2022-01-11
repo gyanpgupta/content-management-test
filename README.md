@@ -46,7 +46,7 @@ Which includes:
 - create API to publish it, which will be stored in the database.
 - For calculate balance, I have use the stated formula:
 
- ## 2 Learning Units (LU) + 80 Experience Units (EU) = 1 PDU
+ - "2 Learning Units (LU) + 80 Experience Units (EU) = 1 PDU"
 
 - On Professional Developement Units, it will show how many PDUs are get generated with EU & LU values
 - To go to next level, it will show how many EU & LU on "TO GO" section
